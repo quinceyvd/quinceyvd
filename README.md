@@ -2,7 +2,7 @@
 #### Software Dev. Student @ [Bit Academy](https://www.bit-academy.nl/)
 
 
-I'm a second year student with a strong interest in Front-end development and constantly looking to pick up new skills. I am currently working on school projects as well as my own projects on the side. I'm an enthusiastic learner who is always looking to improve and grow in this field.
+I'm a second year student, constantly looking to pick up new skills, with a strong interest in Front-end development. I am currently working on school projects as well as my own projects on the side. I'm an enthusiastic learner who is always looking to improve and grow in this field.
 
 <details>
 <summary>Languages & Tools</summary>
