@@ -15,4 +15,4 @@ I'm a second year student, constantly looking to pick up new skills, with a stro
 <a href="https://developer.chrome.com/docs/extensions/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/8eaa4711f3b6015070483ff1c3b707292304efe4/topics/chrome-extension/chrome-extension.png" alt="Chrome Extensions" width="40" height="40"/></a>
 </details>
 
-https://www.linkedin.com/in/quincey-van-diermen-924891262/
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/quincey-van-diermen-924891262/)
