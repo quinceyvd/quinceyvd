@@ -2,6 +2,8 @@
 
 ![](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/quincey-van-diermen/)
+
 - 📖 3rd year **Software Development student** at [Bit Academy](https://www.bit-academy.nl/)
 - 💻 Passionate **Front-end developer**
 - 🍿 Latest project: **[Cineflux](https://github.com/quinceyvd/cineflux)**
