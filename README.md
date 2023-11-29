@@ -6,7 +6,7 @@
 
 - 📖 3rd year **Software Development student** at [Bit Academy](https://www.bit-academy.nl/)
 - 💻 Passionate **Front-end developer**
-- 🍿 Latest project: **[Cineflux](https://github.com/quinceyvd/cineflux)**
+- 🍿 Latest project: **[TFD](https://github.com/quinceyvd/thefilmdash)**
 
 
 <details><summary><b>🌊 Skills</b></summary>
